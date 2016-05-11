@@ -1,5 +1,25 @@
 # ContenidoWeb
 
+
+### Publicacion de Links nuevos semanalmente
+### informacion del subida de nuevo material
+
+#### https://www.youtube.com/channel/UCb54GxETL5Ra2KJHwpAfRzw
+
+### Suscribanse y en los comentarios de cualquier video coloquen el nombre del curso que quieran
+
+### Link a enlaces de descarga de Cursos Platzi
+
+#### https://github.com/LoneWof/ContenidoWeb-Platzi
+
+### Link a enlaces de descarga de Cursos Platzi
+
+#### https://github.com/LoneWof/ContenidoWeb-Devcode
+
+##### Tambien disfruten de nuestros gamaplays de videojuegos Uncharted 4 a thief's end y otros mas que publicaremos 
+
+
+
 ## Curso de Bootstrap 3
 
 https://mega.nz/#F!hQxS2JZZ!QZCkiALFFiHHhj6Jru94Bg
