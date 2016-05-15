@@ -1,4 +1,4 @@
-# ContenidoWeb
+# ContenidoWeb Devcode | Respaldo
 
 
 ### Publicacion de Links nuevos semanalmente
@@ -22,44 +22,44 @@
 
 ## Curso de Bootstrap 3
 
-https://mega.nz/#F!hQxS2JZZ!QZCkiALFFiHHhj6Jru94Bg
+http://linkshrink.net/73g9sR
 
 ## Curso de CSS3
 
-https://mega.nz/#F!EFh1jTLI!mEZEpNmqf_ao4OXVihmgFw
+http://linkshrink.net/7FJgt4
 
 ## Curso de HTML y CSS
 
-https://mega.nz/#F!4ZRWXSgB!iQUbRaigQgoeM5ad4MqX7g
+http://linkshrink.net/7TtLh1
 
 ## Curso de Javascrip
 
-https://mega.nz/#F!0JYDWK4R!CWW3RjoMcTVrtPMOAqP2-w
+http://linkshrink.net/72ZouM
 
 ## Curso de Linux
 
-https://mega.nz/#F!JJpjTQKb!jBR1lzFKuahV3l3iydAJMw
+http://linkshrink.net/7TUe0F
 
 ## Curso de Node.js
 
-https://mega.nz/#F!IYwFyBRZ!FwReMuJfCdRwRxaBcM-BsA
+http://linkshrink.net/7lRoXY
 
 ## Curso de Python
 
-https://mega.nz/#F!cFxl3QZY!YoClleU_AUbvqs-8VT97Cw
+http://linkshrink.net/7J8Zzo
 
 ## Curso de Responsive Web Design
 
-https://mega.nz/#F!tBo3kBrb!KRQ3P3T6u8eedIYXAJuMeg
+http://linkshrink.net/7swmoU
 
 ## Curso Django Profesional
 
-https://mega.nz/#F!QNwmDKoD!R2I7c-Tn6QoVgJlrt8aX0Q
+http://linkshrink.net/7s1VKl
 
 ## Taller Integrando API de Django con Backbone.js
 
-https://mega.nz/#F!4QRy0DDJ!eDNJERRi6HpjNgEXDTXVTA
+http://linkshrink.net/79nSQ3
 
 ## Creacion de una webapp con Ionic
 
-https://mega.nz/#!9AAlkL6D!q3ua6-O9b0llJJOyHl3KVoOfTs3aYLIjnpwFFd3QrEw
+http://linkshrink.net/7oXdO5
